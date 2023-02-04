@@ -1,3 +1,6 @@
-## Jadoo theme by ThemeWagon team.
+# Traveling website with Gulp.
+
+![landing page]('https://github.com/DarkHorseCorder/Gulp-Travel-Website/blob/master/landingpage.png')
 ---
-Thank you for using Jadoo See the "public" folder, you will find everything ready to use there. If you want to use the gulp based workflow, cd to this directory in your terminal and run this command: npm i && gulp
+## Start
+npm i && gulp
